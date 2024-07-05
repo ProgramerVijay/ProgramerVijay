@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ProgramerVijay
+- 👋 Hi, I’m @NASD
 - 👀 I’m interested in Technology, Dance, Karate Etc.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on coding and programming.
